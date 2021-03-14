@@ -1,4 +1,7 @@
-$theColorRed : red;
+
+:root {
+    --blue: blue
+  }
 
 h1 {
     font-size: 1000px;
